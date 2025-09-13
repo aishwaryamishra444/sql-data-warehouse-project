@@ -44,5 +44,17 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ##🪪 License 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+
+
 ##About Me
 I am an aspiring Data Analyst and passionate educator, driven by a mission to share knowledge while finding joy in every opportunity to engage with data.
+
+
+
+
+## DATA ARCHITECTURE 
+The Data Architecture follows Medalliondata_architecture Architecture - Bronze, Silver, and Gold layers.
+<img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/01bf2155-3720-448e-b07c-1576ac71ea9a" />
+
+
+
